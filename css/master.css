@@ -1,0 +1,47 @@
+.col-md-6{
+  /* border: solid 1px grey; */
+}
+.logotext{
+  align-content: center;
+  margin-left: 130px;
+}
+#left{
+  height: 70%;
+  padding-top: 70px;
+}
+
+#sign-up{
+    margin-left: 110px;
+    color: grey;
+    margin-top: 2px;
+}
+.fb{
+  background-color: #488dde;
+  width: 465px;
+  }
+.mobile-form-box{
+  padding: 5px;
+  margin-bottom: 15px;
+}
+.next{
+  background-color: #488dde;
+  width: 465px;
+}
+#policy-text{
+  color: grey;
+  text-align: center;
+  display: inline-block;
+}
+.form{
+  display: inline-block;
+}
+#get-the-app{
+
+}
+
+#microsoft{
+  border-radius: 12%;
+}
+.RIGHT {
+  margin-left: 15%;
+}
